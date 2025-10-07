@@ -27,9 +27,8 @@
 |----------------------------|--------------------|
 | **Programming Languages**  | Python, JavaScript, R , JAVA |
 | **Frontend Development**   | React.js, HTML, CSS, Vite |
-| **Backend Development**    | Node.js, Express.js, PHP |
-| **Database Technologies**  | MySQL, MongoDB |
-| **DevOps & Cloud**         | Docker, GitHub Actions, Firebase, Google Cloud |
+| **Backend Development**    | Node.js, Django , PHP |
+| **Database Technologies**  | MySQL, Django |
 | **Tools/Platforms**        | Git, VS Code, Postman |
 | **Machine Learning**       | Pandas, NumPy, Matplotlib |
 | **Software Tools**         | Excel, Tableau, Looker Studio |
@@ -37,7 +36,7 @@
 ---
 
 ### 🤝 Collaboration
-I’m open to collaborating on exciting projects related to **MERN Stack Development**, **Data Analytics**, or **DevOps**.  
+I’m open to collaborating on exciting projects related to **python developer**, **Data Analytics**, or **Frontend**.  
 If you have an idea or project in mind, feel free to reach out. Let’s create something awesome together!
 
 ---
