@@ -30,8 +30,6 @@
 | **Backend Development**    | Node.js, Django , PHP |
 | **Database Technologies**  | MySQL, Django |
 | **Tools/Platforms**        | Git, VS Code, Postman |
-| **Machine Learning**       | Pandas, NumPy, Matplotlib |
-| **Software Tools**         | Excel, Tableau, Looker Studio |
 
 ---
 
