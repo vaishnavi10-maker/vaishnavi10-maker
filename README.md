@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patil Vaishnavi</h1>
 <h3 align="center">Aspiring MERN Stack Developer | Data Analytics Enthusiast | DevOps Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaishnavi10-maker&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/vaishnavi10-maker?tab=followers">
-    <img src="https://img.shields.io/github/followers/PatilVaishnavi?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
+ 
 
 ---
 
